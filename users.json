@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@example.com",
+    "password": "$2b$10$LsDyCfjgEXhtD2fDzQ9bmeRjeOyiB69spagg/BnYyhdbBX2nzwrUK",
+    "phone": "1234567890"
+  },
+  {
+    "id": 2,
+    "firstName": "Rony",
+    "lastName": "Roy",
+    "email": "rony@example.com",
+    "password": "$2b$10$GHD0iLzZOQppuYiok2n2OuSuYAzxRVioIw448sdLhsZlglJN.tSCy",
+    "phone": "9867546709"
+  },
+  {
+    "id": 3,
+    "firstName": "Tom",
+    "lastName": "Antont",
+    "email": "tom@gmail.com",
+    "password": "$2b$10$OeiudExIrVxMeZsZrQLhQ.O8oP0m.zz356raVvtdXrOZ.OjQKTC7O",
+    "phone": "9889540909"
+  },
+  {
+    "id": 4,
+    "firstName": "Lena",
+    "lastName": "George",
+    "email": "lena@gmail.com",
+    "password": "$2b$10$msZ75YFumBG6CND4ZHbgNe692CLbxsTGXBo7QHOcqNkeqHRQg.6su",
+    "phone": "9654340909"
+  },
+  {
+    "id": 5,
+    "firstName": "ansa",
+    "lastName": "marya",
+    "email": "ansa@gmail.com",
+    "password": "$2b$10$59xHWQaCIC9Mj5ERtt8tyOyY3g3e4pGV5u6gIg1q7A.YL8w.n9Vq.",
+    "phone": "9698760909"
+  },
+  {
+    "id": 6,
+    "firstName": "Ria",
+    "lastName": "marya",
+    "email": "marya@gmail.com",
+    "password": "$2b$10$BIz7J9W5VEk26o5JmuD.D.gLBCgRddiExWp9MZa2nfHEqsQqHb1EC",
+    "phone": "9696230909"
+  },
+  {
+    "id": 7,
+    "firstName": "Saju",
+    "lastName": "Muhammed",
+    "email": "saju@gmail.com",
+    "password": "$2b$10$.x2/piF0k0qHkPnLrOrzTOZ.N80R8TUrCqEW8buLvPQwwYYKrgVZm",
+    "phone": "96966501109"
+  }
+]
